@@ -1,0 +1,31 @@
+.ope
+{
+    /* text-align: center; */
+   margin-right: 150px;
+   margin-top: 250px; 
+ }
+
+.nm{
+
+    border: 2px solid blueviolet;
+    height: 35px;
+    width: 30%;
+    background-color: white;
+    animation: slideIn 1s ease-in-out;   
+
+}
+
+.plan_form{
+   margin-left: 400;
+   margin-right: 100px;
+   justify-content: center;
+   text-align: center;
+}
+
+.pla{
+    margin-right: 100px;
+    justify-content: center;
+    margin-left: 600px;
+}
+
+
