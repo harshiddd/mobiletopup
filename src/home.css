@@ -1,0 +1,30 @@
+.rt
+{
+    font-size: 20px;
+}
+.ft
+{
+    font-size: 60px;
+    color: black;
+}
+.innovation-button {
+    background-color: #4caf50;
+    border-radius: 2%;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+  /* src/Footer.module.css */
+.footer-icons {
+    display: flex;
+   justify-content:first baseline;
+    font-size: 24px;
+    margin-bottom: 10px;
+    
+    width: 300;
+  }
+  
+  /* Add more styles as needed */
+  
