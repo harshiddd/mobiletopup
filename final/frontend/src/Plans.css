@@ -1,0 +1,10 @@
+.background-container {
+    background-image: url('https://img.freepik.com/free-vector/colorful-isometric-composition-with-electronic-gadgets-human-hand-holding-charger-3d-illustration_1284-54106.jpg?t=st=1710081276~exp=1710084876~hmac=4cc24f7e00a9f49bdf6d38fc42a26dd9ce0bc3b6718e0bcb8acad2af0a0e07ca&w=740');
+    background-size: 50%;
+    height: 100vh;
+    background-position: center;
+  }
+  
+  .content {
+    background-color: rgba(255, 255, 255, 0.9); 
+  }
